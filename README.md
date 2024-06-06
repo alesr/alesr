@@ -4,6 +4,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cache-Aside using Decorator Design Pattern in Go](https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
