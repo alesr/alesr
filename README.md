@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/img/programmer.webp" alt="programmer">
 </p>
+<p align="center"><i>keeps trying to make monetary amounts out of nil pointers dereferences</i></p>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesr&layout=compact&theme=tokyonight&size_weight=1&count_weight=3&langs_count=8&hide=objective-c,asp&exclude_repo=floresta-mediterranica,azuleijos-k,k-john,k-app,ninja-cookie)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am on IRC (libera.chat) @ alesr =]
+I am on IRC (libera.chat) @ **alesr** =]
