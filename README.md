@@ -14,7 +14,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-ivory-six-76.vercel.app/api/top-langs/?username=alesr&layout=compact&theme=tokyonight&size_weight=1&count_weight=3&langs_count=8&hide=objective-c,asp&exclude_repo=floresta-mediterranica,azuleijos-k,k-john,k-app,ninja-cookie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ivory-six-76.vercel.app/api/top-langs/?username=alesr&layout=compact&theme=tokyonight&size_weight=1&count_weight=3&langs_count=8&hide=objective-c,asp&exclude_repo=alesr,floresta-mediterranica,azuleijos-k,k-john,k-app,ninja-cookie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I am on IRC (libera.chat) @ **alesr** =]
