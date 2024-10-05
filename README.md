@@ -5,6 +5,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effective RESTful Error Handling in Go](https://alesr.github.io/posts/rest-errors/)
 - [Cache-Aside using Decorator Design Pattern in Go](https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
