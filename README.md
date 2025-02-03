@@ -5,11 +5,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hire Me: The Quest for My Next Dream Job](https://alesr.github.io/posts/job-quest/)
 - [Go Templator](https://alesr.github.io/posts/go-templator/)
 - [Strategy Design Pattern](https://alesr.github.io/posts/strategy-pattern/)
 - [Go Error Handling: Sentinel vs Custom Types](https://alesr.github.io/posts/go-errors/)
 - [Building Docker Images: Pre-compiled Binaries and Multistage Builds](https://alesr.github.io/posts/docker-build/)
-- [Effective RESTful Error Handling in Go](https://alesr.github.io/posts/rest-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
