@@ -5,11 +5,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Claude-Powered GitHub Reviewer with Anthropic MCP](https://alesr.github.io/posts/mcp-self-review-tool/)
 - [Talks We Love I: Rob Pike on Software Engineering](https://alesr.github.io/posts/talks-we-love-I/)
 - [Introducing: Redact](https://alesr.github.io/posts/redact/)
 - [Pointer Initialization: Semantics Matter](https://alesr.github.io/posts/intentional-go-code/)
 - [The Quest for My Next Dream Job](https://alesr.github.io/posts/job-quest/)
-- [Go Templator](https://alesr.github.io/posts/go-templator/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
