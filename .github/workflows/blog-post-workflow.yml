@@ -19,9 +19,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://alesr.github.io/feed.xml"
-          max_post_count: "20"
-          template: |
-            - **$title**  
-              $description  
-              [$url]($url)
-          date_format: "yyyy-MM-dd"
