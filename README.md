@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/img/programmer.webp" alt="programmer">
 </p>
-<p align="center"><i>keeps trying to make monetary amounts out of nil pointer dereferences</i></p>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
