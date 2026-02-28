@@ -1,14 +1,11 @@
-# Alessandro Resta
-
-Blog: [alesr.github.io](https://alesr.github.io)
-
 ## Right Here, Right Now
 
-- [impact](https://github.com/alesr/impact): ...
-- [mcpgen](https://github.com/alesr/mcpgen): ...
-- [lacune](https://github.com/alesr/lacune): ...
-- [templator](https://github.com/alesr/templator): ...
-- [redact](https://github.com/alesr/redact): ...
+- [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
+- [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
+- [lacune](https://github.com/alesr/lacune): go tui for unit test coverage (and soon static single assignment (ssa) analysis)
+- [redact](https://github.com/alesr/redact): redact sensitive information from slog-based logs
+- [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
+- [tidskott-pi](https://github.com/alesr/tidskott-pi): hobby project for capturing video snapshots from raspberry pi
 
 ## Latest Posts
 
@@ -22,6 +19,6 @@ Blog: [alesr.github.io](https://alesr.github.io)
 
 ## Connect
 
-
 - IRC (libera.chat): `alesr`
 - Signal: `alesr.01`
+- Discord: `alesr1`
