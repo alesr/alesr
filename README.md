@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="assets/img/programmer.webp" alt="programmer">
-</p>
+## Right Here, Right Now
 
-### Blog posts
+- [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
+- [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
+- [lacune](https://github.com/alesr/lacune): go tui for unit test coverage (and soon static single assignment (ssa) analysis)
+- [redact](https://github.com/alesr/redact): redact sensitive information from slog-based logs
+- [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
+- [tidskott-pi](https://github.com/alesr/tidskott-pi): hobby project for capturing video snapshots from raspberry pi
+
+## Latest Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [What Makes a Great Developer Experience?](https://alesr.github.io/posts/what-makes-a-great-developer-experience/)
 - [Program Analysis - Francesc Campoy](https://alesr.github.io/posts/program-analysis-francesc-campoy/)
@@ -11,9 +17,8 @@
 - [Close Enough to Explain](https://alesr.github.io/posts/close-enough-to-explain/)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+## Connect
 
-![alesr's GitHub stats](https://github-readme-stats-ivory-six-76.vercel.app/api?username=alesr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=reviews,discussions_started,discussions_answered&show_icons=true&theme=tokyonight&rank_icon=github)
-
-
-I am on IRC (libera.chat) @ **alesr**
+- IRC (libera.chat): `alesr`
+- Signal: `alesr.01`
+- Discord: `alesr1`
