@@ -4,11 +4,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What Makes a Great Developer Experience?](https://alesr.github.io/posts/what-makes-a-great-developer-experience/)
+- [Program Analysis - Francesc Campoy](https://alesr.github.io/posts/program-analysis-francesc-campoy/)
+- [Feelings are Facts: Love, Privacy, and the Politics of Intellectual Shame](https://alesr.github.io/posts/feelings-are-facts/)
+- [The Things I Find Myself Repeating About Go](https://alesr.github.io/posts/the-things-i-find-myself-repeating-about-go/)
 - [Close Enough to Explain](https://alesr.github.io/posts/close-enough-to-explain/)
-- [Building a Claude-Powered GitHub Reviewer with Anthropic MCP](https://alesr.github.io/posts/mcp-self-review-tool/)
-- [Talks We Love I: Rob Pike on Software Engineering](https://alesr.github.io/posts/talks-we-love-I/)
-- [Introducing: Redact](https://alesr.github.io/posts/redact/)
-- [Pointer Initialization: Semantics Matter](https://alesr.github.io/posts/intentional-go-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
