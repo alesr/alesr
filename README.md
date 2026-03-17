@@ -1,6 +1,6 @@
 ## Right Here, Right Now
 
-- [app.transcrip.net](https://app.transcrip.net) — AI transcription & subtitles
+- [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
 - [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
 - [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
 - [lacune](https://github.com/alesr/lacune): go tui for unit test coverage
