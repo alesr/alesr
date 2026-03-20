@@ -1,6 +1,7 @@
 ## Right Here, Right Now
 
 - [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
+- [disco](https://github.com/alesr/disco): disco elysium meets code review
 - [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
 - [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
 - [lacune](https://github.com/alesr/lacune): go tui for unit test coverage
