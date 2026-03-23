@@ -23,4 +23,3 @@
 
 - IRC (libera.chat): `alesr`
 - Signal: `alesr.01`
-- Discord: `alesr1`
