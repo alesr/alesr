@@ -1,5 +1,6 @@
 ## Right Here, Right Now
 
+- [anytype-gh](https://github.com/alesr/anytype-gh): CLI for creating Anytype pages from GitHub READMEs
 - [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
 - [disco](https://github.com/alesr/disco): a local daemon and CLI for style guide enforcement via RAG
 - [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
