@@ -1,5 +1,3 @@
-## Right Here, Right Now
-
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
 - [anytype-gh](https://github.com/alesr/anytype-gh): CLI for creating Anytype pages from GitHub READMEs
 - [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
@@ -11,7 +9,7 @@
 - [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
 - [tidskott-pi](https://github.com/alesr/tidskott-pi): hobby project for capturing video snapshots from raspberry pi
 
-## Latest Posts
+## latest posts
 
 <!-- BLOG-POST-LIST:START -->
 - [What Makes a Great Developer Experience?](https://alesr.github.io/posts/what-makes-a-great-developer-experience/)
