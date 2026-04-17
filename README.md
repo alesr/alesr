@@ -21,7 +21,5 @@
 - [Close Enough to Explain](https://alesr.github.io/posts/close-enough-to-explain/)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect
 
 - IRC (libera.chat): `alesr`
-- Signal: `alesr.01`
