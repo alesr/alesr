@@ -22,4 +22,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-- IRC (libera.chat): `alesr`
+IRC (libera.chat): `alesr`
