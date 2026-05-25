@@ -16,7 +16,6 @@
 - [Program Analysis - Francesc Campoy](https://alesr.github.io/posts/program-analysis-francesc-campoy/)
 - [Feelings are Facts: Love, Privacy, and the Politics of Intellectual Shame](https://alesr.github.io/posts/feelings-are-facts/)
 - [The Things I Find Myself Repeating About Go](https://alesr.github.io/posts/the-things-i-find-myself-repeating-about-go/)
-- [Close Enough to Explain](https://alesr.github.io/posts/close-enough-to-explain/)
 <!-- BLOG-POST-LIST:END -->
 
 
