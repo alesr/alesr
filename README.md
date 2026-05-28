@@ -9,7 +9,7 @@
 - [lacune](https://github.com/alesr/lacune): go tui for unit test coverage
 - [redact](https://github.com/alesr/redact): redact sensitive information from log/slog
 - [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
-- [tidskott-pi](https://github.com/alesr/tidskott-pi): hobby project for capturing video snapshots from raspberry pi
+- [tidskott-pi](https://github.com/alesr/tidskott-pi): *WIP* hobby project for capturing video snapshots from raspberry pi
 
 ## latest posts
 
