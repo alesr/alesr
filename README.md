@@ -1,3 +1,4 @@
+- [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): Raspberry Pi Kubernetes provisioning
 - [worker-scaler-controller](https://github.com/alesr/worker-scaler-controller): custom K8s autoscaler for scaling workers based on Redis Streams demand
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
 - [anytype-gh](https://github.com/alesr/anytype-gh): CLI for creating Anytype pages from GitHub READMEs
