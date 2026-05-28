@@ -1,10 +1,10 @@
 - [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): Raspberry Pi Kubernetes provisioning
-- [worker-scaler-controller](https://github.com/alesr/worker-scaler-controller): custom K8s autoscaler for scaling workers based on Redis Streams demand
+- [worker-scaler-controller](https://github.com/alesr/worker-scaler-controller): PoC custom K8s autoscaler for scaling workers based on Redis Streams demand
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
 - [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
 - [redact](https://github.com/alesr/redact): redact sensitive information from log/slog
 - [lacune](https://github.com/alesr/lacune): go tui for unit test coverage
-- [khipu](https://github.com/alesr/khipu): PoC of OTLP-to-ClickHouse metrics pipeline using OpenTelemetry Collector SDK
+- [khipu](https://github.com/alesr/khipu): PoC OTLP-to-ClickHouse metrics pipeline using OpenTelemetry Collector SDK
 - [anytype-gh](https://github.com/alesr/anytype-gh): CLI for creating Anytype pages from GitHub READMEs
 - [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
 - [disco](https://github.com/alesr/disco): a local daemon and CLI for style guide enforcement via RAG
