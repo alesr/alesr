@@ -3,7 +3,7 @@
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
 - [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
 - [redact](https://github.com/alesr/redact): redact sensitive information from log/slog
-- [lacune](https://github.com/alesr/lacune): go tui for unit test coverage
+- [lacune](https://github.com/alesr/lacune): go coverage in the terminal, with gctrace from tests
 - [khipu](https://github.com/alesr/khipu): PoC OTLP-to-ClickHouse metrics pipeline using OpenTelemetry Collector SDK
 - [anytype-gh](https://github.com/alesr/anytype-gh): CLI for creating Anytype pages from GitHub READMEs
 - [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
