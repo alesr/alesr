@@ -1,13 +1,13 @@
-- [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): Raspberry Pi Kubernetes provisioning
-- [worker-scaler-controller](https://github.com/alesr/worker-scaler-controller): PoC custom K8s autoscaler for scaling workers based on Redis Streams demand
+- [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): raspberry pi kubernetes provisioning
+- [k8s-redis-workload-scaler](https://github.com/alesr/k8s-redis-workload-scaler): redis streams autoscaling operator for K8s 
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
 - [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
 - [redact](https://github.com/alesr/redact): redact sensitive information from log/slog
 - [lacune](https://github.com/alesr/lacune): go coverage in the terminal, with gctrace from tests
-- [khipu](https://github.com/alesr/khipu): PoC OTLP-to-ClickHouse metrics pipeline using OpenTelemetry Collector SDK
-- [anytype-gh](https://github.com/alesr/anytype-gh): CLI for creating Anytype pages from GitHub READMEs
-- [app.transcrip.net](https://app.transcrip.net): AI transcription & subtitles
-- [disco](https://github.com/alesr/disco): a local daemon and CLI for style guide enforcement via RAG
+- [khipu](https://github.com/alesr/khipu): pop OTLP-to-clickHouse metrics pipeline using OpenTelemetry collector SDK
+- [anytype-gh](https://github.com/alesr/anytype-gh): cli for creating Anytype pages from GitHub READMEs
+- [app.transcrip.net](https://app.transcrip.net): ai transcription & subtitles
+- [disco](https://github.com/alesr/disco): a local daemon and cli for style guide enforcement via RAG
 - [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
 - [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
 - [tidskott-pi](https://github.com/alesr/tidskott-pi): *WIP* hobby project for capturing video snapshots from raspberry pi
