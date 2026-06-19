@@ -1,3 +1,4 @@
+- [krgb](https://github.com/alesr/krgb): tui for controlling Keychron K-series keyboard LED colors via raw hid 
 - [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): raspberry pi kubernetes provisioning
 - [k8s-redis-workload-scaler](https://github.com/alesr/k8s-redis-workload-scaler): redis streams autoscaling operator for K8s 
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
