@@ -9,7 +9,6 @@
 - [anytype-gh](https://github.com/alesr/anytype-gh): cli for creating Anytype pages from GitHub READMEs
 - [app.transcrip.net](https://app.transcrip.net): ai transcription & subtitles
 - [disco](https://github.com/alesr/disco): a local daemon and cli for style guide enforcement via RAG
-- [mcpgen](https://github.com/alesr/mcpgen): scaffolding tool for bootstrapping mcp servers
 - [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
 - [tidskott-pi](https://github.com/alesr/tidskott-pi): *WIP* hobby project for capturing video snapshots from raspberry pi
 
