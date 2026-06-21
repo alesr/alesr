@@ -1,5 +1,6 @@
 - [krgb](https://github.com/alesr/krgb): tui for controlling Keychron K-series keyboard LED colors via raw hid 
 - [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): raspberry pi kubernetes provisioning
+- [svc](https://github.com/alesr/svc): worker life-cycle manager
 - [k8s-redis-workload-scaler](https://github.com/alesr/k8s-redis-workload-scaler): redis streams autoscaling operator for K8s 
 - [localt](https://github.com/alesr/localt): local audio transcription and diarization
 - [templator](https://github.com/alesr/templator): type-safe html template rendering engine in go
@@ -9,7 +10,6 @@
 - [anytype-gh](https://github.com/alesr/anytype-gh): cli for creating Anytype pages from GitHub READMEs
 - [app.transcrip.net](https://app.transcrip.net): ai transcription & subtitles
 - [disco](https://github.com/alesr/disco): a local daemon and cli for style guide enforcement via RAG
-- [impact](https://github.com/alesr/impact): proof-of-concept cli + gh badge using scaleway environmental footprint apis
 - [tidskott-pi](https://github.com/alesr/tidskott-pi): *WIP* hobby project for capturing video snapshots from raspberry pi
 
 ## latest posts
