@@ -1,4 +1,5 @@
-- [krgb](https://github.com/alesr/krgb): tui for controlling Keychron K-series keyboard LED colors via raw hid 
+- [poketPDS](https://github.com/alesr/pocketPDS): A Personal Data Server (PDS) for the Bluesky AT Protocol implemented in go
+- [krgb](https://github.com/alesr/krgb): tui for controlling Keychron K-series keyboard LED colors via raw hid
 - [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac): raspberry pi kubernetes provisioning
 - [svc](https://github.com/alesr/svc): worker life-cycle manager
 - [k8s-redis-workload-scaler](https://github.com/alesr/k8s-redis-workload-scaler): redis streams autoscaling operator for K8s 
