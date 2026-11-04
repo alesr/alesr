@@ -17,11 +17,11 @@
 ## latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes a Great Developer Experience?](https://alesr.github.io/posts/what-makes-a-great-developer-experience/)
-- [Program Analysis - Francesc Campoy](https://alesr.github.io/posts/program-analysis-francesc-campoy/)
-- [Feelings are Facts: Love, Privacy, and the Politics of Intellectual Shame](https://alesr.github.io/posts/feelings-are-facts/)
-- [The Things I Find Myself Repeating About Go](https://alesr.github.io/posts/the-things-i-find-myself-repeating-about-go/)
-- [Building a Claude-Powered GitHub Reviewer with Anthropic MCP](https://alesr.github.io/posts/mcp-self-review-tool/)
+- [What Makes a Great Developer Experience?](https://stdout.alesr.me/posts/what-makes-a-great-developer-experience/)
+- [Program Analysis - Francesc Campoy](https://stdout.alesr.me/posts/program-analysis-francesc-campoy/)
+- [Feelings are Facts: Love, Privacy, and the Politics of Intellectual Shame](https://stdout.alesr.me/posts/feelings-are-facts/)
+- [The Things I Find Myself Repeating About Go](https://stdout.alesr.me/posts/the-things-i-find-myself-repeating-about-go/)
+- [Building a Claude-Powered GitHub Reviewer with Anthropic MCP](https://stdout.alesr.me/posts/mcp-self-review-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 
