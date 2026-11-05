@@ -1,4 +1,4 @@
-## Maintained
+## maintained
 
 - [mcpgen](https://github.com/alesr/mcpgen) — Deterministic Go codegen for spec-compliant MCP servers · [Docs](https://stdout.alesr.me/mcpgen/)
 - [pocketPDS](https://github.com/alesr/pocketPDS) — Single-binary Personal Data Server for the Bluesky AT Protocol in Go
@@ -14,14 +14,14 @@
 - [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac) — Ansible provisioning of K3s and Tailscale on a Raspberry Pi Kubernetes lab
 - [anytype-gh](https://github.com/alesr/anytype-gh) — CLI for creating Anytype pages from GitHub READMEs
 
-## Experiments
+## experiments
 
 - [khipu](https://github.com/alesr/khipu) — OTLP-to-ClickHouse metrics pipeline using OpenTelemetry Collector SDK
 - [chachacha](https://github.com/alesr/chachacha) — Matchmaking service for multiplayer games with Redis and e2e tests
 - [impact](https://github.com/alesr/impact) — CLI for estimating Scaleway infrastructure carbon emissions
 - [disco](https://github.com/alesr/disco) — Local daemon and CLI for style guide enforcement via RAG
 
-## Learning
+## learning
 
 - [cacheaside](https://github.com/alesr/cacheaside) — Cache-aside pattern implemented with the Decorator pattern · [Docs](https://stdout.alesr.me/posts/cache-aside-using-decorator-design-pattern-in-go/)
 - [gh-self-reviewer](https://github.com/alesr/gh-self-reviewer) — MCP server tool for self-reviewing GitHub pull requests · [Docs](https://stdout.alesr.me/posts/mcp-self-review-tool/)
