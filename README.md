@@ -11,8 +11,6 @@
 - [imgresizer](https://github.com/alesr/imgresizer) — Image resizing service with sync and async processing and in-flight deduplication
 - [lacune](https://github.com/alesr/lacune) — Go coverage TUI with gctrace visualization
 - [redact](https://github.com/alesr/redact) — Configurable redaction pipeline for slog-based logs
-- [disco](https://github.com/alesr/disco) — Local daemon and CLI for style guide enforcement via RAG
-- [impact](https://github.com/alesr/impact) — CLI for estimating Scaleway infrastructure carbon emissions
 - [alesrpi-lab-iac](https://github.com/alesr/alesrpi-lab-iac) — Ansible provisioning of K3s and Tailscale on a Raspberry Pi Kubernetes lab
 - [anytype-gh](https://github.com/alesr/anytype-gh) — CLI for creating Anytype pages from GitHub READMEs
 
@@ -20,6 +18,8 @@
 
 - [khipu](https://github.com/alesr/khipu) — OTLP-to-ClickHouse metrics pipeline using OpenTelemetry Collector SDK
 - [chachacha](https://github.com/alesr/chachacha) — Matchmaking service for multiplayer games with Redis and e2e tests
+- [impact](https://github.com/alesr/impact) — CLI for estimating Scaleway infrastructure carbon emissions
+- [disco](https://github.com/alesr/disco) — Local daemon and CLI for style guide enforcement via RAG
 
 ## Learning
 
@@ -38,3 +38,4 @@
 
 
 IRC (libera.chat): `alesr`
+
