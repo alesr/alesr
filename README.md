@@ -38,4 +38,3 @@
 
 
 IRC (libera.chat): `alesr`
-
